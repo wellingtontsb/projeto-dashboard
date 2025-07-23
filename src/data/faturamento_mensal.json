@@ -1,0 +1,62 @@
+[
+  {
+    "mes": "Jun/2024",
+    "faturamento": 25000.0,
+    "quantidade_vendas": 120
+  },
+  {
+    "mes": "Jul/2024",
+    "faturamento": 28000.0,
+    "quantidade_vendas": 135
+  },
+  {
+    "mes": "Ago/2024",
+    "faturamento": 32000.0,
+    "quantidade_vendas": 150
+  },
+  {
+    "mes": "Set/2024",
+    "faturamento": 35000.0,
+    "quantidade_vendas": 165
+  },
+  {
+    "mes": "Out/2024",
+    "faturamento": 40000.0,
+    "quantidade_vendas": 200
+  },
+  {
+    "mes": "Nov/2024",
+    "faturamento": 45000.0,
+    "quantidade_vendas": 230
+  },
+  {
+    "mes": "Dez/2024",
+    "faturamento": 60000.0,
+    "quantidade_vendas": 300
+  },
+  {
+    "mes": "Jan/2025",
+    "faturamento": 38000.0,
+    "quantidade_vendas": 180
+  },
+  {
+    "mes": "Fev/2025",
+    "faturamento": 30000.0,
+    "quantidade_vendas": 140
+  },
+  {
+    "mes": "Mar/2025",
+    "faturamento": 33000.0,
+    "quantidade_vendas": 160
+  },
+  {
+    "mes": "Abr/2025",
+    "faturamento": 37000.0,
+    "quantidade_vendas": 190
+  },
+  {
+    "mes": "Mai/2025",
+    "faturamento": 42000.0,
+    "quantidade_vendas": 210
+  }
+]
