@@ -16,4 +16,4 @@ bun dev
 
 Abra [http://localhost:3000](http://localhost:3000) no seu navegador para ver o resultado.
 
-# Projeto desenvolvido para fins de estudo
+## Projeto desenvolvido para fins de estudo
